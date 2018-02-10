@@ -1,0 +1,9 @@
+[submodule "PhoenixAPI"]
+	path = PhoenixAPI
+	url = https://github.com/WouterG/PhoenixAPI.git
+[submodule "PhoenixSponge"]
+    path = PhoenixSponge
+    url = https://github.com/WouterG/PhoenixSponge.git
+[submodule "PhoenixSpigot"]
+    path = PhoenixSpigot
+    url = https://github.com/WouterG/PhoenixSpigot.git
